@@ -2,7 +2,7 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F4C5C,100:2F81F7&height=150&section=header&text=Lucas%20do%20Nascimento%20Lopes&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Engenharia%20de%20Software%20%7C%20Rio%20de%20Janeiro&descSize=16&descAlignY=60)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Estudante+de+Engenharia+de+Software;Java+%7C+Python+%7C+SQL;Construindo+meu+primeiro+projeto+full+stack;Em+busca+de+vaga+de+Desenvolvedor+J%C3%BAnior)](https://github.com/Lucas-l0pe5)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Estudante+de+Engenharia+de+Software;Java+%7C+Python+%7C+SQL;Em+busca+de+vaga+de+Desenvolvedor+J%C3%BAnior)](https://github.com/Lucas-l0pe5)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-nascimento-lopes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasdnasc.lopes@gmail.com)
@@ -16,7 +16,7 @@
 Desenvolvo com **Java, Python e SQL** e estou construindo meu primeiro projeto **full stack**. No Grupo Fleury, atuo entre equipes técnicas e operacionais e já automatizei processos que reduziram retrabalho e tempo de tarefa. Gosto de aprender com mentoria, receber feedback e entregar código que funciona.
 
 - Cursando **Engenharia de Software** na Anhanguera, com conclusão prevista em 12/2027
-- Buscando vaga de **Desenvolvedor Júnior** ou **Estágio em Desenvolvimento Web**
+- Buscando vaga de **Desenvolvedor Júnior**
 - Aprendendo boas práticas de mercado: Git Flow, code review, testes e CI/CD
 
 ## Stack
