@@ -7,6 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-nascimento-lopes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasdnasc.lopes@gmail.com)
 
+[![Baixar Currículo](https://img.shields.io/badge/Baixar_Curr%C3%ADculo-PDF-0F4C5C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Lucas-l0pe5/Lucas-l0pe5/raw/main/Curriculo_Lucas_Lopes.pdf)
+
 </div>
 
 ---
@@ -16,7 +18,7 @@
 Desenvolvo com **Java, Python e SQL** e estou construindo meu primeiro projeto **full stack**. No Grupo Fleury, atuo entre equipes técnicas e operacionais e já automatizei processos que reduziram retrabalho e tempo de tarefa. Gosto de aprender com mentoria, receber feedback e entregar código que funciona.
 
 - Cursando **Engenharia de Software** na Anhanguera, com conclusão prevista em 12/2027
-- Buscando vaga de **Desenvolvedor Júnior**
+- Buscando vaga de **Desenvolvedor Júnior** ou **Estágio em Desenvolvimento Web**
 - Aprendendo boas práticas de mercado: Git Flow, code review, testes e CI/CD
 
 ## Stack
