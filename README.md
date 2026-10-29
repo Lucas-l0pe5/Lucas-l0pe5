@@ -17,7 +17,6 @@
 ```js
 const lucas = {
   formacao: "Engenharia de Software · Anhanguera (conclusão 12/2027)",
-  trabalho: "Grupo Fleury · ponte entre equipes técnicas e operacionais",
   conquista: "automatizei processos que reduziram retrabalho e tempo de tarefa",
   primeiroFullStack: "Ressonância: casa de leilões online, publicada e funcionando",
   procurando: ["Desenvolvedor Júnior", "Estágio em Desenvolvimento Web"],
